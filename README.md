@@ -82,7 +82,7 @@ Critical functionality works without internet connectivity:
                      │
         ┌────────────┴────────────┐
         │                         │
-┌───────▼────────┐      ┌────────▼──────────┐
+┌───────▼────────┐      ┌─────────▼─────────┐
 │    Agentic     │◄────►│   Bharat-Score    │
 │    Agronomy    │      │      Engine       │
 │     System     │      │                   │
@@ -97,7 +97,7 @@ Critical functionality works without internet connectivity:
                  │
     ┌────────────┼────────────┐
     │            │            │
-┌───▼────┐  ┌───▼────┐  ┌───▼────┐
+┌───▼─────┐  ┌───▼────┐  ┌────▼────┐
 │AgriStack│  │ India  │  │Satellite│
 │  UFSI   │  │ Stack  │  │  Data   │
 └─────────┘  └────────┘  └─────────┘
@@ -188,13 +188,6 @@ Documentation for implementation, deployment, and integration is organized in:
 - `design.md` - System architecture, components, and data models
 - `tasks.md` - Implementation roadmap and task breakdown
 
-## License
-
-[To be determined based on project governance]
-
-## Contact
-
-[Project contact information to be added]
 
 ---
 
